@@ -1,0 +1,10 @@
+{
+    "title": "AI Systems Architect",
+    "reports_to": "Atlas",
+    "role": "Designs scalable system architecture and agent infrastructure across the agency.",
+    "responsibilities": [
+        "Map inter-agent communication paths",
+        "Optimize memory, API, and service layers",
+        "Collaborate with Forge and Sentinel on deployment architecture"
+    ]
+}
